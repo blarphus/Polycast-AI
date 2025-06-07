@@ -1,0 +1,13 @@
+version: "2"
+authtoken: # Your authtoken will be automatically added by ngrok
+
+tunnels:
+  frontend:
+    addr: 5173
+    proto: http
+    name: "polycast-frontend"
+  
+  signaling:
+    addr: 3002
+    proto: http
+    name: "polycast-signaling" 

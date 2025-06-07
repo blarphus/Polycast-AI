@@ -1,0 +1,23 @@
+{
+  "íbamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ir",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to go"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "irse",
+      "long": "nos íbamos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to go away; leave; depart"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "échate": [
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "echarse",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to throw; fling; hurl [oneself]"
+    }
+  ],
+  "échese": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "echarse",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to throw; fling; hurl [oneself]"
+    }
+  ],
+  "échense": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "echarse",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to throw; fling; hurl [oneself]"
+    }
+  ],
+  "éramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ser",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to be"
+    }
+  ]
+}

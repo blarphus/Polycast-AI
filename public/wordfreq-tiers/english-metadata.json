@@ -1,0 +1,44 @@
+{
+  "language": "English",
+  "language_code": "en",
+  "total_words": 319938,
+  "total_size_mb": 39.29408264160156,
+  "tiers": {
+    "core": {
+      "words": 15000,
+      "size_mb": 1.7900447845458984,
+      "filename": "public/wordfreq-tiers/english-core.json",
+      "rank_range": [
+        1,
+        15000
+      ]
+    },
+    "extended": {
+      "words": 50000,
+      "size_mb": 6.077985763549805,
+      "filename": "public/wordfreq-tiers/english-extended.json",
+      "rank_range": [
+        15001,
+        65000
+      ]
+    },
+    "complete": {
+      "words": 254938,
+      "size_mb": 31.42605209350586,
+      "filename": "public/wordfreq-tiers/english-complete.json",
+      "rank_range": [
+        65001,
+        319938
+      ]
+    }
+  },
+  "frequency_scale": {
+    "internal": "1.0-10.0 with decimals",
+    "user_display": "1-5 integer scale"
+  },
+  "tier_boundaries": {
+    "core": 15000,
+    "extended": 65000,
+    "complete": 319938
+  }
+}

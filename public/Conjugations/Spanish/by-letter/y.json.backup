@@ -1,0 +1,1256 @@
+{
+  "yazcáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "yacer",
+      "long": "no yazcáis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to lie"
+    }
+  ],
+  "yerran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "errar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yerras": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "errar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yacerán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacerás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacimos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacía": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yací": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yació": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciendo": [
+    {
+      "translation": "lying",
+      "verb": "yacer",
+      "tense": "Gerund"
+    }
+  ],
+  "yacemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacieres": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacieren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciera": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yazcamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yerro": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "errar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yerra": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "errar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "errar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yerre": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "errar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "errar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "errar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "errar",
+      "long": "no yerre",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yacíamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaceríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacerían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacerías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacíais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacieron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacería": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yerren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "errar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "errar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "errar",
+      "long": "no yerren",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yerres": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "errar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to err; make an error"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "errar",
+      "long": "no yerres",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to err; make an error"
+    }
+  ],
+  "yéndose": [
+    {
+      "translation": "going away",
+      "verb": "irse",
+      "tense": "Gerund"
+    }
+  ],
+  "yaces": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacer": [
+    {
+      "translation": "to lie",
+      "tense": "Infinitive",
+      "verb_english": "I lie; am lying"
+    }
+  ],
+  "yaced": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yazco": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yazca": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "yacer",
+      "long": "no yazca",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to lie"
+    }
+  ],
+  "yacieras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciere": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaceréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaceré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaceríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaceremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacerá": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacieran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciereis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacisteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yacierais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yazcan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "yacer",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "yacer",
+      "long": "no yazcan",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to lie"
+    }
+  ],
+  "yazcas": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "yacer",
+      "long": "no yazcas",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to lie"
+    }
+  ],
+  "yacido": [
+    {
+      "translation": "lain/laid\r",
+      "verb": "yacer",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "he yacido",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "has yacido",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "ha yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hemos yacido",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habéis yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "han yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habré yacido",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habrás yacido",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habrá yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habremos yacido",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habréis yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habrán yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "había yacido",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habías yacido",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "había yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habíamos yacido",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habíais yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habían yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hube yacido",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hubiste yacido",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hubo yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hubimos yacido",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hubisteis yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "hubieron yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habría yacido",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habrías yacido",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habría yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habríamos yacido",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habríais yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "long": "habrían yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "haya yacido",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hayas yacido",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "haya yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hayamos yacido",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hayáis yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hayan yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiere yacido",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubieres yacido",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiere yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiéremos yacido",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiereis yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubieren yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiera yacido",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubieras yacido",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiera yacido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubiéramos yacido",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubierais yacido",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "long": "hubieran yacido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to lie"
+    }
+  ],
+  "yendo": [
+    {
+      "translation": "going",
+      "verb": "ir",
+      "tense": "Gerund"
+    }
+  ],
+  "yace": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "yacer",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "yacer",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciéramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ],
+  "yaciéremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "yacer",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to lie"
+    }
+  ]
+}

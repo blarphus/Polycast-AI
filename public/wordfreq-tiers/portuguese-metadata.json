@@ -1,0 +1,44 @@
+{
+  "language": "Portuguese",
+  "language_code": "pt",
+  "total_words": 267444,
+  "total_size_mb": 33.119001388549805,
+  "tiers": {
+    "core": {
+      "words": 15000,
+      "size_mb": 1.8063793182373047,
+      "filename": "public/wordfreq-tiers/portuguese-core.json",
+      "rank_range": [
+        1,
+        15000
+      ]
+    },
+    "extended": {
+      "words": 50000,
+      "size_mb": 6.1360015869140625,
+      "filename": "public/wordfreq-tiers/portuguese-extended.json",
+      "rank_range": [
+        15001,
+        65000
+      ]
+    },
+    "complete": {
+      "words": 202444,
+      "size_mb": 25.176620483398438,
+      "filename": "public/wordfreq-tiers/portuguese-complete.json",
+      "rank_range": [
+        65001,
+        267444
+      ]
+    }
+  },
+  "frequency_scale": {
+    "internal": "1.0-10.0 with decimals",
+    "user_display": "1-5 integer scale"
+  },
+  "tier_boundaries": {
+    "core": 15000,
+    "extended": 65000,
+    "complete": 267444
+  }
+}

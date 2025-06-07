@@ -1,0 +1,1141 @@
+{
+  "zambulleron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambulleron",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullirás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te zambullirás",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullirán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambullirán",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulléremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "nos zambulléremos",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulléramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "nos zambulléramos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambúllase": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "zambullirse",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos zambulliremos",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambúllanse": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "zambullirse",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullido": [
+    {
+      "translation": "dove\r",
+      "verb": "zambullirse",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me he zambullido",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te has zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se ha zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos hemos zambullido",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os habéis zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se han zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me habré zambullido",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te habrás zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se habrá zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos habremos zambullido",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os habréis zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se habrán zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me había zambullido",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te habías zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se había zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos habíamos zambullido",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os habíais zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se habían zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me hube zambullido",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se hubo zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos hubimos zambullido",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os hubisteis zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se hubieron zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me habría zambullido",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te habrías zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se habría zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos habríamos zambullido",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os habríais zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se habrían zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "me haya zambullido",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "te hayas zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se haya zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "nos hayamos zambullido",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "os hayáis zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se hayan zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "me hubiere zambullido",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "te hubieres zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se hubiere zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "nos hubiéremos zambullido",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "os hubiereis zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se hubieren zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "me hubiera zambullido",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "te hubieras zambullido",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se hubiera zambullido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "nos hubiéramos zambullido",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "os hubierais zambullido",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se hubieran zambullido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulláis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "os zambulláis",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "zambullirse",
+      "long": "no os zambulláis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambullen",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "nos zambullamos",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulleren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se zambulleren",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullera": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "me zambullera",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se zambullera",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullere": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "me zambullere",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se zambullere",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambúllete": [
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "zambullirse",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullíais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os zambullíais",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulló": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambulló",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulleres": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "te zambulleres",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulla": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "me zambulla",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se zambulla",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "zambullirse",
+      "long": "no se zambulla",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullo": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me zambullo",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me zambulliría",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambulliría",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullimos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos zambullimos",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos zambullimos",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullíamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos zambullíamos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullisteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os zambullisteis",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os zambulliríais",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullerais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "os zambullerais",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullís": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os zambullís",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullía": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me zambullía",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambullía",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullí": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me zambullí",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulle": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambulle",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullereis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "os zambullereis",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullirían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambullirían",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullirías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te zambullirías",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se zambullan",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "zambullirse",
+      "long": "no se zambullan",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullas": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "te zambullas",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "zambullirse",
+      "long": "no te zambullas",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambullían",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullirse": [
+    {
+      "translation": "to dive; plunge",
+      "tense": "Infinitive",
+      "verb_english": "I dive; am diving"
+    }
+  ],
+  "zambullías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te zambullías",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulleras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "te zambulleras",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulleran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "zambullirse",
+      "long": "se zambulleran",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullíos": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "zambullirse",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "me zambulliré",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambullirá": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "se zambullirá",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "os zambulliréis",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te zambulliste",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulliríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "nos zambulliríamos",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulles": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "zambullirse",
+      "long": "te zambulles",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to dive; plunge"
+    }
+  ],
+  "zambulléndose": [
+    {
+      "translation": "diving",
+      "verb": "zambullirse",
+      "tense": "Gerund"
+    }
+  ]
+}

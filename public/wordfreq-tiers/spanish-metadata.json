@@ -1,0 +1,44 @@
+{
+  "language": "Spanish",
+  "language_code": "es",
+  "total_words": 341461,
+  "total_size_mb": 42.503005027770996,
+  "tiers": {
+    "core": {
+      "words": 15000,
+      "size_mb": 1.8101272583007812,
+      "filename": "public/wordfreq-tiers/spanish-core.json",
+      "rank_range": [
+        1,
+        15000
+      ]
+    },
+    "extended": {
+      "words": 50000,
+      "size_mb": 6.153852462768555,
+      "filename": "public/wordfreq-tiers/spanish-extended.json",
+      "rank_range": [
+        15001,
+        65000
+      ]
+    },
+    "complete": {
+      "words": 276461,
+      "size_mb": 34.53902530670166,
+      "filename": "public/wordfreq-tiers/spanish-complete.json",
+      "rank_range": [
+        65001,
+        341461
+      ]
+    }
+  },
+  "frequency_scale": {
+    "internal": "1.0-10.0 with decimals",
+    "user_display": "1-5 integer scale"
+  },
+  "tier_boundaries": {
+    "core": 15000,
+    "extended": 65000,
+    "complete": 341461
+  }
+}

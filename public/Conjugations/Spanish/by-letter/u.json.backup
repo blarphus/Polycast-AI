@@ -1,0 +1,5477 @@
+{
+  "ubicaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "unirá": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uniré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unieren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubiqué": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "uniéramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "utilizaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubica": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "uníamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uniendo": [
+    {
+      "translation": "uniting",
+      "verb": "unir",
+      "tense": "Gerund"
+    }
+  ],
+  "usaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilicemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubique": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "ubicar",
+      "long": "no ubique",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "utilizado": [
+    {
+      "translation": "used\r",
+      "verb": "utilizar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "he utilizado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "has utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "ha utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hemos utilizado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habéis utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "han utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habré utilizado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habrás utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habrá utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habremos utilizado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habréis utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habrán utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "había utilizado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habías utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "había utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habíamos utilizado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habíais utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habían utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hube utilizado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hubiste utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hubo utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hubimos utilizado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hubisteis utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "hubieron utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habría utilizado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habrías utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habría utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habríamos utilizado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habríais utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "long": "habrían utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "haya utilizado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hayas utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "haya utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hayamos utilizado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hayáis utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hayan utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiere utilizado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubieres utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiere utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiéremos utilizado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiereis utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubieren utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiera utilizado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubieras utilizado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiera utilizado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubiéramos utilizado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubierais utilizado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "long": "hubieran utilizado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use; utilize"
+    }
+  ],
+  "uníais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "utilizó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "ubicarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "untasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usado": [
+    {
+      "translation": "used\r",
+      "verb": "usar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "he usado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "has usado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "ha usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hemos usado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habéis usado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "han usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habré usado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habrás usado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habrá usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habremos usado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habréis usado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habrán usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "había usado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habías usado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "había usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habíamos usado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habíais usado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habían usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hube usado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hubiste usado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hubo usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hubimos usado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hubisteis usado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "hubieron usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habría usado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habrías usado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habría usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habríamos usado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habríais usado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "long": "habrían usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "haya usado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hayas usado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "haya usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hayamos usado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hayáis usado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hayan usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiere usado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubieres usado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiere usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiéremos usado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiereis usado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubieren usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiera usado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubieras usado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiera usado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubiéramos usado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubierais usado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "long": "hubieran usado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to use"
+    }
+  ],
+  "utilizando": [
+    {
+      "translation": "using",
+      "verb": "utilizar",
+      "tense": "Gerund"
+    }
+  ],
+  "unieran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "untéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "untar",
+      "long": "no untéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "ubicabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "utilizamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicado": [
+    {
+      "translation": "placed\r",
+      "verb": "ubicar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "he ubicado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "has ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "ha ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hemos ubicado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habéis ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "han ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habré ubicado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habrás ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habrá ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habremos ubicado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habréis ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habrán ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "había ubicado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habías ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "había ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habíamos ubicado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habíais ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habían ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hube ubicado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hubiste ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hubo ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hubimos ubicado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hubisteis ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "hubieron ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habría ubicado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habrías ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habría ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habríamos ubicado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habríais ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "long": "habrían ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "haya ubicado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hayas ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "haya ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hayamos ubicado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hayáis ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hayan ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiere ubicado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubieres ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiere ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiéremos ubicado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiereis ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubieren ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiera ubicado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubieras ubicado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiera ubicado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubiéramos ubicado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubierais ubicado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "long": "hubieran ubicado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "unirás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unirán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untes": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "untar",
+      "long": "no untes",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unten": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "untar",
+      "long": "no unten",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "uniría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unía": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unes": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "ubicáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubiquéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "ubicar",
+      "long": "no ubiquéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "utilizaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "uniste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "unir",
+      "long": "no unáis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubicareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "ubicaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "untas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "usar",
+      "long": "no usen",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use"
+    }
+  ],
+  "ubicara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "uniremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "untáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unirías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unirían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unimos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "untado": [
+    {
+      "translation": "anointed\r",
+      "verb": "untar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "he untado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "has untado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "ha untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hemos untado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habéis untado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "han untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habré untado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habrás untado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habrá untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habremos untado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habréis untado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habrán untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "había untado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habías untado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "había untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habíamos untado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habíais untado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habían untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hube untado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hubiste untado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hubo untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hubimos untado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hubisteis untado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "hubieron untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habría untado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habrías untado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habría untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habríamos untado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habríais untado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "long": "habrían untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "haya untado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hayas untado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "haya untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hayamos untado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hayáis untado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hayan untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiere untado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubieres untado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiere untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiéremos untado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiereis untado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubieren untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiera untado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubieras untado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiera untado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubiéramos untado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubierais untado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "long": "hubieran untado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "ubicasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "untaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "uniríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uniríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubicaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "untamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "ubiquemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicar": [
+    {
+      "translation": "to place; locate; to be located; be situated",
+      "tense": "Infinitive",
+      "verb_english": "I place; am placing"
+    }
+  ],
+  "ubican": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "uses": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "usar",
+      "long": "no uses",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use"
+    }
+  ],
+  "uniereis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "untarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "use": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "usar",
+      "long": "no use",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use"
+    }
+  ],
+  "uso": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "unid": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubicaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilizaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "usarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilicé": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilice": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "utilizar",
+      "long": "no utilice",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizo": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utiliza": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizar": [
+    {
+      "translation": "to use; utilize",
+      "tense": "Infinitive",
+      "verb_english": "I use; am using"
+    }
+  ],
+  "ubicamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "untarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "ubicaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "unamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "utilizaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "uséis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "usar",
+      "long": "no uséis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use"
+    }
+  ],
+  "ubicarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "une": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uno": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubicando": [
+    {
+      "translation": "placing",
+      "verb": "ubicar",
+      "tense": "Gerund"
+    }
+  ],
+  "ubico": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usando": [
+    {
+      "translation": "using",
+      "verb": "usar",
+      "tense": "Gerund"
+    }
+  ],
+  "unieres": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uniréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "utilizareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "unías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unido": [
+    {
+      "translation": "united\r",
+      "verb": "unir",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "he unido",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "has unido",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "ha unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hemos unido",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habéis unido",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "han unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habré unido",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habrás unido",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habrá unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habremos unido",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habréis unido",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habrán unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "había unido",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habías unido",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "había unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habíamos unido",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habíais unido",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habían unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hube unido",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hubiste unido",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hubo unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hubimos unido",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hubisteis unido",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "hubieron unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habría unido",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habrías unido",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habría unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habríamos unido",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habríais unido",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "long": "habrían unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "haya unido",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hayas unido",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "haya unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hayamos unido",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hayáis unido",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hayan unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiere unido",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubieres unido",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiere unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiéremos unido",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiereis unido",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubieren unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiera unido",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubieras unido",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiera unido",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubiéramos unido",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubierais unido",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "long": "hubieran unido",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "ubicas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "utilizáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "unís": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "utilizaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "untare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unas": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "unir",
+      "long": "no unas",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "unan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "unir",
+      "long": "no unan",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untar": [
+    {
+      "translation": "to anoint; to smear; rub",
+      "tense": "Infinitive",
+      "verb_english": "I anoint; am anointing"
+    }
+  ],
+  "untan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "unisteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "ubicarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubicabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilices": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "utilizar",
+      "long": "no utilices",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilicen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "utilizar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "utilizar",
+      "long": "no utilicen",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubiquen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "ubicar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "ubicar",
+      "long": "no ubiquen",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "unir": [
+    {
+      "translation": "to unite; join; to tie together; to merge",
+      "tense": "Infinitive",
+      "verb_english": "I unite; am uniting"
+    }
+  ],
+  "unió": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "utilizaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "uniéremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilizabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilizáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "ubicare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "ubiques": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "ubicar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "ubicar",
+      "long": "no ubiques",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "usar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilizarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "unta": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unte": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "untar",
+      "long": "no unte",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unto": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "unté": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "utilizaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "uní": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uniere": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "uniera": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "una": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "unir",
+      "long": "no una",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubicábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "usaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "unierais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "usaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usar": [
+    {
+      "translation": "to use",
+      "tense": "Infinitive",
+      "verb_english": "I use; am using"
+    }
+  ],
+  "unieron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "unir",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "ubicáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "ubicar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to place; locate; to be located; be situated"
+    }
+  ],
+  "utilicéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "utilizar",
+      "long": "no utilicéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to use; utilize"
+    }
+  ],
+  "unieras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "unir",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to unite; join; to tie together; to merge"
+    }
+  ],
+  "untaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "untar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "untáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usa": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usé": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "usaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilizas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "utilizáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "utilizar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "untar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to anoint; to smear; rub"
+    }
+  ],
+  "usaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "usar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to use"
+    }
+  ],
+  "utilizasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "utilizar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to use; utilize"
+    }
+  ],
+  "untando": [
+    {
+      "translation": "anointing",
+      "verb": "untar",
+      "tense": "Gerund"
+    }
+  ]
+}

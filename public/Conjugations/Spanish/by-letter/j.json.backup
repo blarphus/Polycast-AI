@@ -1,0 +1,5474 @@
+{
+  "juntaos": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntarse",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juegan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juegas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "juntar",
+      "long": "no juntéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "os juntéis",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "juntarse",
+      "long": "no os juntéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "nos juntemos",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jures": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "jurar",
+      "long": "no jures",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to swear"
+    }
+  ],
+  "jactaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos jactaríamos",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "jurar",
+      "long": "no juren",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to swear"
+    }
+  ],
+  "juntáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "nos juntáremos",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jactaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos jactaremos",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jurado": [
+    {
+      "translation": "sworn\r",
+      "verb": "jurar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "he jurado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "has jurado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "ha jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hemos jurado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habéis jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "han jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habré jurado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habrás jurado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habrá jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habremos jurado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habréis jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habrán jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "había jurado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habías jurado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "había jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habíamos jurado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habíais jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habían jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hube jurado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hubiste jurado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hubo jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hubimos jurado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hubisteis jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "hubieron jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habría jurado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habrías jurado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habría jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habríamos jurado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habríais jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "long": "habrían jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "haya jurado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hayas jurado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "haya jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hayamos jurado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hayáis jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hayan jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiere jurado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubieres jurado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiere jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiéremos jurado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiereis jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubieren jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiera jurado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubieras jurado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiera jurado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubiéramos jurado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubierais jurado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "long": "hubieran jurado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to swear"
+    }
+  ],
+  "jugamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jactabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te jactabas",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactaban",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jugabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "nos juntáramos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos juntaremos",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jurasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "os jactarais",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juró": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "os juntareis",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jactabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os jactabais",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juro": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juraren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos jactamos",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos jactamos",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jacto": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me jacto",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jacte": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "me jacte",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se jacte",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "jactarse",
+      "long": "no se jacte",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jacta": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jacta",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os jactáis",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jacté": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me jacté",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactó",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "nos jactemos",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "me juntara",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se juntara",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jurarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactándose": [
+    {
+      "translation": "boasting",
+      "verb": "jactarse",
+      "tense": "Gerund"
+    }
+  ],
+  "jugaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jactares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "te jactares",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se jactaren",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jugaremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jurabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntar": [
+    {
+      "translation": "to join; unite; put together; assemble",
+      "tense": "Infinitive",
+      "verb_english": "I join; am joining"
+    }
+  ],
+  "juntas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te juntas",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntan",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    }
+  ],
+  "juraréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jáctese": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jactarse",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os juntaríais",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jactarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactarán",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te jactarás",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "os juntarais",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jurabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se juntaran",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "te juntaras",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntaron",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntándose": [
+    {
+      "translation": "joining",
+      "verb": "juntarse",
+      "tense": "Gerund"
+    }
+  ],
+  "jactado": [
+    {
+      "translation": "boasted\r",
+      "verb": "jactarse",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me he jactado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te has jactado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se ha jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos hemos jactado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os habéis jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se han jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me habré jactado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te habrás jactado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se habrá jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos habremos jactado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os habréis jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se habrán jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me había jactado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te habías jactado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se había jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos habíamos jactado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os habíais jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se habían jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me hube jactado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se hubo jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos hubimos jactado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os hubisteis jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se hubieron jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me habría jactado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te habrías jactado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se habría jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos habríamos jactado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os habríais jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se habrían jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "me haya jactado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "te hayas jactado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se haya jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "nos hayamos jactado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "os hayáis jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se hayan jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "me hubiere jactado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "te hubieres jactado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se hubiere jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "nos hubiéremos jactado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "os hubiereis jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se hubieren jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "me hubiera jactado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "te hubieras jactado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se hubiera jactado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "nos hubiéramos jactado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "os hubierais jactado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se hubieran jactado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jugarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juraste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jueguen": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "jugar",
+      "long": "no jueguen",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to play"
+    }
+  ],
+  "juegues": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "jugar",
+      "long": "no juegues",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to play"
+    }
+  ],
+  "jugó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos juntamos",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos juntamos",
+      "performer_en": "we",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "júntate": [
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntarse",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me juntaría",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntaría",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jactaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os jactaréis",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se juntaren",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntando": [
+    {
+      "translation": "joining",
+      "verb": "juntar",
+      "tense": "Gerund"
+    }
+  ],
+  "jugabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jactan": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactan",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te jactas",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "os jactareis",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntabais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os juntabais",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os juntáis",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "júntese": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntarse",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jactasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os jactasteis",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os juntasteis",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jactaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactaron",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "os jactaríais",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "junté": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me junté",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntó": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntó",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "junto": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me junto",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "junte": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "juntar",
+      "long": "no junte",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "me junte",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se junte",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "juntarse",
+      "long": "no se junte",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "junta": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se junta",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juraríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugar": [
+    {
+      "translation": "to play",
+      "tense": "Infinitive",
+      "verb_english": "I play; am playing"
+    }
+  ],
+  "jugad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurad": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juras": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurar": [
+    {
+      "translation": "to swear",
+      "tense": "Infinitive",
+      "verb_english": "I swear; am swearing"
+    }
+  ],
+  "juré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jure": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "jurar",
+      "long": "no jure",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to swear"
+    }
+  ],
+  "jura": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugáis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juraríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactaos": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jactarse",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to boast; brag"
+    }
+  ],
+  "júntense": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntarse",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugaron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jactarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te jactarías",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactarían",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jugaren": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jurarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntarse": [
+    {
+      "translation": "to join; come together; gather together; meet",
+      "tense": "Infinitive",
+      "verb_english": "I join; am joining"
+    }
+  ],
+  "juegue": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Imperative Negative",
+      "infinitive": "jugar",
+      "long": "no juegue",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to play"
+    }
+  ],
+  "juega": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juego": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jactábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "nos jactábamos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juraban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugando": [
+    {
+      "translation": "playing",
+      "verb": "jugar",
+      "tense": "Gerund"
+    }
+  ],
+  "jactaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me jactaba",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactaba",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juraran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juraras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntado": [
+    {
+      "translation": "joined\r",
+      "verb": "juntar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "he juntado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "has juntado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "ha juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hemos juntado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habéis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "han juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habré juntado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habrás juntado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habrá juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habremos juntado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habréis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habrán juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "había juntado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habías juntado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "había juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habíamos juntado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habíais juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habían juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hube juntado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hubiste juntado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hubo juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hubimos juntado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hubisteis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "hubieron juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habría juntado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habrías juntado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habría juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habríamos juntado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habríais juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "long": "habrían juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "haya juntado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hayas juntado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "haya juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hayamos juntado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hayáis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hayan juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiere juntado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubieres juntado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiere juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiéremos juntado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiereis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubieren juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiera juntado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubieras juntado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiera juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubiéramos juntado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubierais juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "long": "hubieran juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me he juntado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te has juntado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se ha juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos hemos juntado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os habéis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se han juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me habré juntado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te habrás juntado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se habrá juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos habremos juntado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os habréis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se habrán juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me había juntado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te habías juntado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se había juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos habíamos juntado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os habíais juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se habían juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me hube juntado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se hubo juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos hubimos juntado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os hubisteis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se hubieron juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me habría juntado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te habrías juntado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se habría juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos habríamos juntado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os habríais juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se habrían juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "me haya juntado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "te hayas juntado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se haya juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "nos hayamos juntado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "os hayáis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se hayan juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "me hubiere juntado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "te hubieres juntado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se hubiere juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "nos hubiéremos juntado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "os hubiereis juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se hubieren juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "me hubiera juntado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "te hubieras juntado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se hubiera juntado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "nos hubiéramos juntado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "os hubierais juntado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se hubieran juntado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugasteis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juraría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se jactaran",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "te jactaras",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "me jactare",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se jactare",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "me jactara",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se jactara",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me jactaré",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactará",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juráis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "me jactaría",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "se jactaría",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "junten": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "juntar",
+      "long": "no junten",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se junten",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "juntarse",
+      "long": "no se junten",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntes": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "juntar",
+      "long": "no juntes",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "te juntes",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "juntarse",
+      "long": "no te juntes",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugaran": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugaras": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juntares": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "te juntares",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juraba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juráremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugaríais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juraron": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos juntaríamos",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juráramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juntarán": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntarán",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntarás": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te juntarás",
+      "performer_en": "you (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juraremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juguemos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juguéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "jugar",
+      "long": "no juguéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to play"
+    }
+  ],
+  "jurara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jurare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "juraré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jactáramos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "nos jactáramos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "me juntare",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "juntarse",
+      "long": "se juntare",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntará",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me juntaré",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugaría": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jactarse": [
+    {
+      "translation": "to boast; brag",
+      "tense": "Infinitive",
+      "verb_english": "I boast; am boasting"
+    }
+  ],
+  "jactáremos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "nos jactáremos",
+      "performer_en": "we",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntaréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "os juntaréis",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jáctate": [
+    {
+      "performer": "tú",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jactarse",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactéis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "os jactéis",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "jactarse",
+      "long": "no os jactéis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntarían",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntarías": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te juntarías",
+      "performer_en": "you (informal)",
+      "tense": "Conditional",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jacten": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "se jacten",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Negative",
+      "infinitive": "jactarse",
+      "long": "no se jacten",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jactes": [
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jactarse",
+      "long": "te jactes",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    },
+    {
+      "performer": "tú",
+      "mood": "Imperative Negative",
+      "infinitive": "jactarse",
+      "long": "no te jactes",
+      "performer_en": "you (informal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntabas": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te juntabas",
+      "performer_en": "you (informal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntaban": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntaban",
+      "performer_en": "them / you all (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugué": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jurando": [
+    {
+      "translation": "swearing",
+      "verb": "jurar",
+      "tense": "Gerund"
+    }
+  ],
+  "juntaba": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "me juntaba",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "se juntaba",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "juntaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "te juntaste",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jugado": [
+    {
+      "translation": "played\r",
+      "verb": "jugar",
+      "tense": "Pastparticiple"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "he jugado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "has jugado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "ha jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hemos jugado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habéis jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "han jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habré jugado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habrás jugado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habrá jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habremos jugado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habréis jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habrán jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "había jugado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habías jugado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "había jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habíamos jugado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habíais jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habían jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hube jugado",
+      "performer_en": "I",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hubiste jugado",
+      "performer_en": "you (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hubo jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hubimos jugado",
+      "performer_en": "we",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hubisteis jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "hubieron jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Preterite (Archaic)",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habría jugado",
+      "performer_en": "I",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habrías jugado",
+      "performer_en": "you (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habría jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habríamos jugado",
+      "performer_en": "we",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habríais jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "long": "habrían jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "haya jugado",
+      "performer_en": "I",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hayas jugado",
+      "performer_en": "you (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "haya jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hayamos jugado",
+      "performer_en": "we",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hayáis jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hayan jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiere jugado",
+      "performer_en": "I",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubieres jugado",
+      "performer_en": "you (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiere jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiéremos jugado",
+      "performer_en": "we",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiereis jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubieren jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Future Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiera jugado",
+      "performer_en": "I",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "tú",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubieras jugado",
+      "performer_en": "you (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiera jugado",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubiéramos jugado",
+      "performer_en": "we",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubierais jugado",
+      "performer_en": "you all (informal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    },
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "long": "hubieran jugado",
+      "performer_en": "them / you all (formal)",
+      "tense": "Past Perfect",
+      "has_long": true,
+      "translation": "to play"
+    }
+  ],
+  "jugareis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "you all (informal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jáctense": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Imperative Affirmative",
+      "infinitive": "jactarse",
+      "performer_en": "them / you all (formal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to boast; brag"
+    }
+  ],
+  "juntábamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntar",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to join; unite; put together; assemble"
+    },
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "juntarse",
+      "long": "nos juntábamos",
+      "performer_en": "we",
+      "tense": "Imperfect",
+      "has_long": true,
+      "translation": "to join; come together; gather together; meet"
+    }
+  ],
+  "jurarais": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugara": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Imperfect",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jurarían": [
+    {
+      "performer": "ellos/ellas/ustedes",
+      "mood": "Indicative",
+      "infinitive": "jurar",
+      "performer_en": "them / you all (formal)",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to swear"
+    }
+  ],
+  "jugaríamos": [
+    {
+      "performer": "nosotros/nosotras",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "we",
+      "tense": "Conditional",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "juréis": [
+    {
+      "performer": "vosotros/vosotras",
+      "mood": "Subjunctive",
+      "infinitive": "jurar",
+      "performer_en": "you all (informal)",
+      "tense": "Present",
+      "has_long": false,
+      "translation": "to swear"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Imperative Negative",
+      "infinitive": "jurar",
+      "long": "no juréis",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Present",
+      "has_long": true,
+      "translation": "to swear"
+    }
+  ],
+  "jactaste": [
+    {
+      "performer": "tú",
+      "mood": "Indicative",
+      "infinitive": "jactarse",
+      "long": "te jactaste",
+      "performer_en": "you (informal)",
+      "tense": "Preterite",
+      "has_long": true,
+      "translation": "to boast; brag"
+    }
+  ],
+  "jugare": [
+    {
+      "performer": "yo",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    },
+    {
+      "performer": "él/ella/usted",
+      "mood": "Subjunctive",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugará": [
+    {
+      "performer": "él/ella/usted",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "he/she/you (formal)",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ],
+  "jugaré": [
+    {
+      "performer": "yo",
+      "mood": "Indicative",
+      "infinitive": "jugar",
+      "performer_en": "I",
+      "tense": "Future",
+      "has_long": false,
+      "translation": "to play"
+    }
+  ]
+}

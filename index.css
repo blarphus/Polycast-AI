@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  overflow: hidden; /* Prevent body scrollbars */
+  background-color: #121212; /* Match app background for seamless look */
+  color: white; /* Default text color for any unstyled content */
+  font-family: sans-serif;
+}
